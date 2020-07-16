@@ -1,2 +1,2 @@
-# shooting-range
-a wall and a gun with infinite bullets
+# p5.play-boilerplate
+Boiler plate for p5.play
